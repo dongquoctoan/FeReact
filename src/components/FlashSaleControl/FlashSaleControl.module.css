@@ -1,0 +1,11 @@
+.checkbox {
+    width: 30px;
+}
+
+.flashSaleProductsHeader {
+    padding: 6px 12px;
+    background-color: #F6F6F6;
+    border-radius: 4px;
+    border: 1px solid #f0f0f0;
+    margin-top: 16px;
+}

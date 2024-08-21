@@ -1,0 +1,42 @@
+.wrapper {
+}
+.header {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1.5rem;
+  gap: 1rem;
+}
+.headerTitle {
+  font-size: 18px;
+  color: black;
+}
+.headerTime {
+  color: #999999;
+}
+.metric {
+  padding-left: 1.5rem;
+  flex: 1 1 0%;
+  border-left: 1px solid #e5e5e5;
+}
+.metricTitle {
+  color: #333333;
+  font-size: 16px;
+}
+.metricTitle span {
+  margin-left: 4px;
+  font-size: 14px;
+  color: #999999;
+}
+.metricData {
+  font-size: 22px;
+  color: black;
+  margin: 0.5rem 0px;
+}
+.metricRatio {
+  font-size: 12px;
+  color: #999999;
+}
+.statisticContent {
+  display: flex;
+  justify-content: space-between;
+}

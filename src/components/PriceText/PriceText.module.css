@@ -1,0 +1,18 @@
+.currency {
+  font-size: 14px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: baseline;
+  font-size: 16px;
+}
+
+.pricePrimary {
+  color: var(--nc-primary);
+}
+
+.priceLineThrough {
+  color: var(--nc-text-tertiary);
+  text-decoration: line-through;
+}

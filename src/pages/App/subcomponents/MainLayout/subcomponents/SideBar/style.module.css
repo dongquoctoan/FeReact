@@ -1,0 +1,12 @@
+.wrapper {
+    background-color: #fff;
+    padding-top: 58px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    height: 100vh;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

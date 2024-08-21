@@ -1,0 +1,8 @@
+.tableWrapper {
+    max-height: 300px;
+    overflow: auto;
+}
+
+.buttonGroup {
+    float: right;
+}

@@ -1,0 +1,15 @@
+.wrapper {
+  padding: 24px;
+  background-color: #fafafa;
+}
+.option {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.option svg {
+  cursor: pointer;
+}
+.option svg:hover {
+  color: #f5222d;
+}

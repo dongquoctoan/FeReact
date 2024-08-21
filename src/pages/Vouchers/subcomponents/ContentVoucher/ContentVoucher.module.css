@@ -1,0 +1,12 @@
+.wrapper {
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filter {
+  margin-bottom: 1rem;
+}

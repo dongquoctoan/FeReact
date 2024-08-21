@@ -1,0 +1,23 @@
+.tittle {
+  display: flex;
+}
+
+.headerText {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.historyPaymentText {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.totalPayment {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.totalPaymentText {
+  color: var(--nc-text-tertiary-o);
+}

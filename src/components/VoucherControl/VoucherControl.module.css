@@ -1,0 +1,67 @@
+.wrapper {
+  margin: auto;
+  display: flex;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 1.5rem;
+}
+
+.contentItem {
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.contentItem > span {
+  width: 200px;
+  text-align: right;
+}
+
+.contentItem > div {
+  flex: 1;
+}
+
+.contentGroup {
+  display: flex;
+  gap: 1rem;
+}
+
+.contentGroup > div {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.contentGroup > div > span {
+  width: 200px;
+  text-align: right;
+}
+
+.image {
+  flex: 1;
+  margin: auto;
+  text-align: center;
+}
+
+.action {
+  width: 100%;
+  display: flex;
+  background-color: #fff;
+  padding: 24px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.selectDiscountType {
+  padding-left: 4px;
+}
+
+.btnAddProductWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

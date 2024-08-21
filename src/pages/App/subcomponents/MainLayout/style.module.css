@@ -1,0 +1,25 @@
+.wrapper {
+    
+}
+.body {
+  display: flex;
+  min-width: 100%;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+  padding-top: 58px;
+}
+.content {
+  padding: 16px;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.copyright {
+  font-size: 14px;
+  color: #00000073;
+  text-align: center;
+  position: fixed;
+  bottom: 8px;
+  right: 8px;
+  z-index: 9999;
+}

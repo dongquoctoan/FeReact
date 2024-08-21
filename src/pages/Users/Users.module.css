@@ -1,0 +1,15 @@
+.wrapper {
+
+}
+.filter {
+  margin-bottom: 16px;
+}
+.action {
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+.username {
+  color: #999;
+}
